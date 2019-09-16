@@ -54,6 +54,11 @@
     align-items: center;
     background-color: #eee;
   }
+  @media (max-width: 600px){
+    header {
+      flex-wrap: wrap;
+    }
+  }
   .logo {
     width: 60vw;
   }
