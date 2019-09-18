@@ -69,6 +69,13 @@
     text-align: center;
     margin-left: 20px;
   }
+
+  @media (max-width: 650px) {
+    .logo > img {
+      margin: 0 auto;
+    }
+  }
+  
   img {
     width: 100%;
     height: 100%;
