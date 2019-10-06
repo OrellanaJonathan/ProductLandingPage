@@ -120,6 +120,10 @@
     height: 200px;
     margin-top: 50px;
   }
+  #hero > h2 {
+    margin-bottom: 20px;
+    word-wrap: break-word;
+  }
   .nav-bar {
     font-weight: 400;
     margin-top: 10;
